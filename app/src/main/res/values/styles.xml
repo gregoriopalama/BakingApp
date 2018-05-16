@@ -1,0 +1,47 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="AppTheme.RecipeTitle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/recipe_title_size</item>
+    </style>
+
+    <style name="AppTheme.IngredientName" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/ingredient_name_size</item>
+    </style>
+
+    <style name="AppTheme.IngredientQuantity" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/ingredient_quantity_size</item>
+    </style>
+
+    <style name="AppTheme.StepSummary" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/step_summary_size</item>
+    </style>
+
+    <style name="AppTheme.StepDescription" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/step_description_size</item>
+    </style>
+
+    <style name="AppTheme.WidgetLabel" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/widget_label_size</item>
+    </style>
+
+    <style name="AppTheme.WidgetText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/widget_text</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="AppTheme.FullScreen" parent="AppTheme">
+    </style>
+
+
+</resources>

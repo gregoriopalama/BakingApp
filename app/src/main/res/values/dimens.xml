@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+
+    <dimen name="recipe_title_top_margin">24dp</dimen>
+    <dimen name="recipe_margin">16dp</dimen>
+
+    <dimen name="ingredient_bottom_margin">8dp</dimen>
+
+    <dimen name="step_description_margin">16dp</dimen>
+
+    <dimen name="recipe_title_size">24sp</dimen>
+    <dimen name="ingredient_name_size">16sp</dimen>
+    <dimen name="ingredient_quantity_size">14sp</dimen>
+    <dimen name="step_summary_size">16sp</dimen>
+    <dimen name="step_description_size">16sp</dimen>
+
+    <dimen name="recipe_detail_toolbar_height">190dp</dimen>
+
+
+    <dimen name="widget_margin">16dp</dimen>
+    <dimen name="widget_list_margin">8dp</dimen>
+    <dimen name="widget_label_size">16sp</dimen>
+    <dimen name="widget_spinner_padding">4dp</dimen>
+    <dimen name="widget_spinner_dropdown_padding">12dp</dimen>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.gregoriopalama.udacity.bakingapp.ui.step.StepActivity">
+
+        <com.stepstone.stepper.StepperLayout
+            android:id="@+id/stepperLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:ms_stepperType="dots"
+            app:ms_bottomNavigationBackground="@color/primary"
+            app:ms_backButtonColor="@color/accent"
+            app:ms_nextButtonColor="@color/accent"
+            app:ms_completeButtonColor="@color/accent"
+            app:ms_activeStepColor="@color/accent"
+            app:ms_inactiveStepColor="@color/primary_light"/>
+
+    </android.support.constraint.ConstraintLayout>
+</layout>

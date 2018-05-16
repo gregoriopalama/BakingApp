@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tools_recipe_name">Apple Pie</string>
+    <string name="tools_recipe_servings">8 servings</string>
+    <string name="tools_ingredient_name">unsalted butter, softened and cut into 1 in. cubes</string>
+    <string name="tools_ingredient_quantity">1.5 TBLSP</string>
+    <string name="tools_step_summary">Melt butter and bittersweet chocolate.</string>
+
+    <string name="recipe_servings">%d servings</string>
+
+    <string name="fragment_tag_recipes_list">com.gregoriopalama.udacity.bakingapp.recipeslist</string>
+
+    <string name="tab_title_steps">Steps</string>
+    <string name="tab_title_ingredients">Ingredients</string>
+
+    <string name="steps_title">steps</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="widget_config_label">Choose which recipe\'s ingredients to show</string>
+    <string name="widget_config_confirm">Confirm</string>
+    <string name="tools_widget_recipe_name">Nutella Pie Ingredients</string>
+    <string name="widget_ingredient">%1$s\n%2$s %3$s</string>
+    <string name="widget_ingredient_title">Ingredients for %1$s</string>
+
+</resources>
